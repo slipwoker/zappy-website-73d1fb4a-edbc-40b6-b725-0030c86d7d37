@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+Vista System מציעה פתרונות search engine marketing ושיווק ברשתות חברתיות לבעלי עסקים קטנים. הגדילו את המכירות שלכם עם אסטרטגיות דיגיטליות מנצחות!
+
+### אודות
+https://example.com/about
+גלו איך Vista System הפכה לשותפה המובילה של בעלי עסקים קטנים בישראל. צוות מומחים עם ניסיון מוכח בשיווק דיגיטלי וקידום מכירות מרשים.
+
+### פתרונות
+https://example.com/solutions
+חבילות search engine marketing ו-social media marketing מותאמות אישית. פתרונות Vista System מעצימים עסקים קטנים להגיע לקהל היעד ולהכפיל הכנסות.
+
+### צור קשר
+https://example.com/contact
+צרו קשר עם Vista System לייעוץ חינם! מומחי social media marketing שלנו ממתינים לעזור לכם להצליח. התקשרו עכשיו ותתחילו להגדיל מכירות.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
